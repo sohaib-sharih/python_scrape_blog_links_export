@@ -1,0 +1,6 @@
+Error*.md
+downloaded_files/
+debug.html
+debug.txt
+*.xlsx
+__pycache__/
